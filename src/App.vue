@@ -24,7 +24,8 @@ export default {
   name: 'app',
   data () {
     return {
-      msg: 'You have successfully started your journey into Front End Web Development'
+      msg: 'You have successfully started your journey into Front End Web Development',
+      second:'Thank You'
     }
   }
 }
